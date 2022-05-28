@@ -1,0 +1,13 @@
+{
+  "resourceName": "s3aaec4fe4",
+  "policyUUID": "aaec4fe4",
+  "bucketName": "filesharingapp969206e00d7940f3a91a2e4bda197bdf",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

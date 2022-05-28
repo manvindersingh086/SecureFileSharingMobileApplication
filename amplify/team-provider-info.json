@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-filesharingapp-dev-112851-authRole",
+      "UnauthRoleArn": "arn:aws:iam::542482318399:role/amplify-filesharingapp-dev-112851-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::542482318399:role/amplify-filesharingapp-dev-112851-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-filesharingapp-dev-112851-deployment",
+      "UnauthRoleName": "amplify-filesharingapp-dev-112851-unauthRole",
+      "StackName": "amplify-filesharingapp-dev-112851",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:542482318399:stack/amplify-filesharingapp-dev-112851/bcb6f840-9e76-11ec-81aa-06eff08fd9d4",
+      "AmplifyAppId": "d390uu226jwq3v"
+    },
+    "categories": {
+      "auth": {
+        "filesharingappe77b6bf8": {}
+      }
+    }
+  }
+}

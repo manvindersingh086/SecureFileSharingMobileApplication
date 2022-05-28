@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "filesharingapp",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2022-03-31T14:04:36.593Z"
+}
